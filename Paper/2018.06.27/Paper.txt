@@ -1,0 +1,6 @@
+On-Manifold Preintegration for Real-Time Visual--Inertial Odometry
+
+Forster C, Carlone L, Dellaert F, et al. 
+
+[J]. IEEE Transactions on Robotics, 2017, 33(1): 1-21.
+
